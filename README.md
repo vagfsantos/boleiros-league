@@ -56,14 +56,12 @@
 Acertando o resultado exato da partida será aplicado APENAS os pontos da tabela principal. Caso o resultado não seja exato, o participante poderá pontuar com a tabela secundária.
 
 ### Tabela Principal
-#### Placar
 | Acertou | Pontos |
 |--|--|
 | Resultado exato da partida | +15 |
 | Aposta exclusiva (nenhum participante apostou no mesmo resultado) | +10 |
 
 ### Tabela Secundária
-#### Gols
 |Acertou| Pontos |
 |--|--|
 | Quantidade de gols da equipe mandante | +5 |
